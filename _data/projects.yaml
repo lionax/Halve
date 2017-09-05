@@ -1,14 +1,14 @@
 - title: ProGesture
   url: https://progesture.org/de/
-  image: https://progesture.org/wp-content/uploads/2016/05/hand.png
+  image: https://progesture.org/wp-content/uploads/2016/04/Fahrstuhl-Prototyp-300x196.jpg
   completed: false
 
 - title: SysAdmin AStA Fulda
-  url: http://edv.hs-fulda.org/
-  image: https://edv.hs-fulda.org/content/images/2017/04/Asta-logo-blatt_neu.png
+  url: https://edv.hs-fulda.org/hooray-happy-birthday/
+  image: http://lionax.github.io/blog/images/project_bathesis.jpg
   completed: false
 
 - title: Bachelor Thesis
-  url: http://lionax.github.io/odysseus.git
-  image: http://lionax/hs-fulda.org/blog/images/project_bathesis.jpg
-  completed: true
+  url: http://lionax.github.io/odysseus
+  image: http://lionax.github.io/blog/images/project_bathesis.jpg
+  completed: false
