@@ -1,9 +1,9 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Things Happen
+description: Stuff worth sharing - or not.
+url: https://lionax.github.io/blog
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: de_DE
 
 # Left Block Images
 background:
@@ -31,28 +31,28 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            justwellbrock
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
+github:             lionax
+stackoverflow:     6420855/justwellbrock   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          justwellbrock
+xing:              Alexander_Wellbrock
 #instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              lootmolch
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-#codepen:           username
+codepen:           lionax
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
